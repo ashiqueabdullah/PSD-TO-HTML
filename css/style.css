@@ -31,6 +31,28 @@ body{
 	color: white;
 	margin-bottom: 170px;
 }
+.service_section h1{
+	color:black;
+	font-size: 39px;
+	font-weight: 700;
+	text-align: center;
+	margin-top: 110px;
+	margin-bottom: 80px;
+}
+
+.service_section h4{
+	font-size: 16px;
+	font-weight: 700;
+	margin-top: 35px;
+	margin-bottom: 45px;
+}
+.service_section p{
+	font-size: 11px;
+	font-weight: 700;
+}
+.service_section .myml{
+	margin-left: 30px;
+}
 
 
 
